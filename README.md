@@ -1,4 +1,4 @@
 # Auto-Photo-Clicker
-Clicks photo after an time interval.
+Clicks photo after a time interval and saves it into photos.
 
 
